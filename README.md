@@ -59,6 +59,8 @@ The loads were applied to simulate the worst-case stresses experienced by the up
 Below is the CAD model of the upright.
 
 ![Upright CAD](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20explode.png?raw=true)
+![Upright CAD](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20iso.png?raw=true)
+![Upright CAD](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20iso2.png?raw=true)
 
 ---
 
@@ -74,13 +76,13 @@ For structural validation, the calculated loads were applied at the mounting poi
 
 FEA was conducted to evaluate stress distribution and deformation under worst-case loading conditions.
 
-### Stress Distribution
+### Factor of Safety Distribution
 
-![FEA Stress Plot](images/fea_stress.png)
+![FOS Plot]([images/fea_stress.png](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20up%20FOS.png?raw=true))
 
-### Deformation
+### Stress distribution
 
-![FEA Deformation](images/fea_deformation.png)
+![Stress](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20up%20stress.png?raw=true)
 
 ---
 
@@ -88,10 +90,10 @@ FEA was conducted to evaluate stress distribution and deformation under worst-ca
 
 | Parameter | Value |
 |-----------|------|
-| Material | Aluminium Alloy |
-| Maximum Stress | (Add Value) |
-| Safety Factor | (Add Value) |
-| Maximum Deformation | (Add Value) |
+| Material | Aluminium 7075-T6 |
+| Maximum Stress | (347.75MPa) |
+| Safety Factor | (1.42) |
+| Weight | (720g) |
 
 The design satisfies the required structural criteria while maintaining minimal weight.
 
@@ -101,7 +103,7 @@ The design satisfies the required structural criteria while maintaining minimal 
 
 - CAD: SolidWorks
 - Simulation: ANSYS
-- Calculations: MATLAB / Excel
+- Calculations: MS Excel
 
 ---
 
