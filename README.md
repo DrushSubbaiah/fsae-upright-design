@@ -68,7 +68,8 @@ Below is the CAD model of the upright.
 
 For structural validation, the calculated loads were applied at the mounting points representing real suspension and hub connections.
 
-![Load Case Diagram](images/load_case.png)
+![Load Case Diagram](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/Screenshot%202026-03-14%20150200.png)
+![Load Case Diagram](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/Screenshot%202026-03-14%20150216.png)
 
 ---
 
@@ -91,9 +92,9 @@ FEA was conducted to evaluate stress distribution and deformation under worst-ca
 | Parameter | Value |
 |-----------|------|
 | Material | Aluminium 7075-T6 |
-| Maximum Stress | (347.75MPa) |
-| Safety Factor | (1.42) |
-| Weight | (720g) |
+| Maximum Stress | 347.75MPa |
+| Safety Factor | 1.42 |
+| Weight | 720g |
 
 The design satisfies the required structural criteria while maintaining minimal weight.
 
