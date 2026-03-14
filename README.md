@@ -58,7 +58,7 @@ The loads were applied to simulate the worst-case stresses experienced by the up
 
 Below is the CAD model of the upright.
 
-![Upright CAD](images/upright_cad.png)
+![Upright CAD](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20explode.png?raw=true)
 
 ---
 
