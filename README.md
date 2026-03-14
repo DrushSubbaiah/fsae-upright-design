@@ -78,7 +78,7 @@ FEA was conducted to evaluate stress distribution and deformation under worst-ca
 
 ### Factor of Safety Distribution
 
-![FOS Plot]([images/fea_stress.png](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20up%20FOS.png?raw=true))
+![FOS Plot](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20up%20FOS.png?raw=true)
 
 ### Stress distribution
 
