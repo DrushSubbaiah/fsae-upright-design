@@ -125,14 +125,6 @@ Role: **Lead Suspension Engineer**
 
 ---
 
-## Future Improvements
-
-- Topology optimization for weight reduction
-- Integration with hub assembly analysis
-- Fatigue analysis for endurance conditions
-
----
-
 ## Author
 
 Drush Subbaiah  
